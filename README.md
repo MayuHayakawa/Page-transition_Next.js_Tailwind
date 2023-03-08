@@ -2,6 +2,8 @@ reference(YouTube): https://www.youtube.com/watch?v=S4HYwsBRpRs&t=928s
 
 Created with React + Next.js + Tailwind(CSS)
 
+<hr>
+
 create next app (https://nextjs.org/docs/api-reference/create-next-app)
 ```console
 npx create-next-app@latest *FOLDERNAME*
